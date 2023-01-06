@@ -1,4 +1,4 @@
-# CDIP-dataset-dwonload
+# CDIP-dataset-dwonload （Batch download）
 
 
 Batch download CDIP dataset
